@@ -6,7 +6,6 @@ body {
     font-family: Share Tech;
     text-align: center;
     font-weight: 900;
-    /* ADIÇÃO: mesma transição de background-color usada nos cards (1s ease) */
     transition: background-color 1s ease;
 }
 
